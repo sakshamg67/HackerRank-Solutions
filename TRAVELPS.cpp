@@ -70,7 +70,7 @@ int main()
             else 
                { c+=b;}
         }
-        cout << c<< endl;
+        cout << c<< "/n";
   }
 
   return 0;
