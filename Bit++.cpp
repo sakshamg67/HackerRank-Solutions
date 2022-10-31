@@ -18,6 +18,6 @@ int main()
             --x;
         }
     }
-    cout<<x<<endl;
+    cout<<x<<"/n";
     return 0;
 }
