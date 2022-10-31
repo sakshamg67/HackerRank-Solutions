@@ -25,7 +25,7 @@ int main()
         if (m==00)
         {
          cout<<arr1[h-1]<<" ";
-          cout << "o' clock ";
+          cout << "o' clock /n";
           
         }
        
