@@ -18,6 +18,6 @@ int main(){
         tall=max(tall,h[str[j]-'a']);
     }
     
-    cout<<length*tall;
+    cout<<length*tall<<endl;
     return 0;
 }
